@@ -1,0 +1,5 @@
+{
+    "threshold": 0.55,
+    "risk_horizon_frames": 15,
+    "sequence_length": 15
+}

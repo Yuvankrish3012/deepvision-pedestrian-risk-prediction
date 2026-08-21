@@ -1,0 +1,17 @@
+[
+    "dx",
+    "dy",
+    "speed",
+    "acceleration",
+    "bbox_area",
+    "bbox_bottom",
+    "relative_bbox_height",
+    "is_looking",
+    "is_walking",
+    "is_standing",
+    "is_occluded",
+    "has_ped_crossing",
+    "has_ped_sign",
+    "has_stop_sign",
+    "has_traffic_light"
+]
